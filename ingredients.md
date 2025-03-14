@@ -1,3 +1,5 @@
+Ingredients of Sichuan ‘Chongqing’ Noodle Soup
+
 Braised beef:
 
 700g (1 lb 8 oz) beef chuck steak, cut into roughly 4cm (1.5”) cubes
