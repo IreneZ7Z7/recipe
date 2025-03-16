@@ -7,3 +7,5 @@ This is my **favorite** recipe, Sichuan ‘Chongqing’ noodle soup recipe. It i
 - **instructions.txt**: This is a plain text file that provides step-by-step cooking instructions on how to prepare the noodle soup.
 - **recipe.jpg**: This is a picture file that shows the final dish of the spicy beef noodle soup.
 - **.gitignore**: This is a file that specifies which files or directories should be ignored by Git version control.
+
+![Sichuan ‘Chongqing’ Noodle Soup!](./recipe.jpg "Sichuan ‘Chongqing’ Noodle Soup")
