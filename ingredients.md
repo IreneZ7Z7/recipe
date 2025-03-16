@@ -57,4 +57,3 @@ Bowl bases:
 finely chopped coriander (cilantro) leaves, to serve
 
 Enjoy my recipe!
-Date: Mar 15th, 2024
