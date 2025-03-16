@@ -9,3 +9,4 @@ This is my **favorite** recipe, Sichuan ‘Chongqing’ noodle soup recipe. It i
 - **.gitignore**: This is a file that specifies which files or directories should be ignored by Git version control.
 
 ![Sichuan ‘Chongqing’ Noodle Soup!](./recipe.jpg "Sichuan ‘Chongqing’ Noodle Soup")
+*Sichuan ‘Chongqing’ Noodle Soup*
